@@ -1,2 +1,5 @@
-#1/bin/bash 
+#!/bin/bash
 head /etc/passwd
+
+
+
