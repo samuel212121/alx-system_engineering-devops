@@ -1,2 +1,3 @@
 #!/bin/bash 
-find . -type d -not - namee '.' | wc -1
+find . -type d | wc -l
+
